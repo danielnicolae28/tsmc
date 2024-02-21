@@ -1,0 +1,2 @@
+# tsmc
+typescript master class
